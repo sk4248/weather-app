@@ -4,6 +4,7 @@ body {
     max-width: 650px;
     margin: 0 auto;
     padding: 0 16px;
+    background-color: #3C91AD;
 
     display: flex;
     flex-direction: column;
@@ -15,7 +16,7 @@ body {
 }
 
 footer {
-    color: #888888;
+    color: #4A4F55;
     border-top: 1px solid #eeeeee;
     margin-top: 16px;
     padding: 16px 0;
@@ -32,7 +33,7 @@ h1 {
 }
 
 header a {
-    color: #888888;
+    color: #4A4F55;
     margin-right: 16px;
     text-decoration: none;
 }
